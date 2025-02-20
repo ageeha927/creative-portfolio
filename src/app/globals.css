@@ -19,3 +19,14 @@ body {
   background: var(--background);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+@font-face {
+  font-family: "Montreal-Bold";
+  font-style: bold;
+  src: url("/public/fonts/PPNeueMontreal-Bold.otf") format("otf");
+}
+@font-face {
+  font-family: "Montreal-Thin";
+  font-style: bold;
+  src: url("/public/fonts/PPNeueMontreal-Thin.otf") format("otf");
+}
