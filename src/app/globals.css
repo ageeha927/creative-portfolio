@@ -7,6 +7,11 @@
   --foreground: #171717;
 }
 
+::-webkit-scrollbar {
+  display: none;
+}
+
+
 @media (prefers-color-scheme: dark) {
   :root {
     --background: #0a0a0a;
@@ -23,10 +28,10 @@ body {
 @font-face {
   font-family: "Montreal-Bold";
   font-style: bold;
-  src: url("/public/fonts/PPNeueMontreal-Bold.otf") format("otf");
+  src: url("/fonts/PPNeueMontreal-Bold.otf") format("opentype");
 }
 @font-face {
   font-family: "Montreal-Thin";
   font-style: bold;
-  src: url("/public/fonts/PPNeueMontreal-Thin.otf") format("otf");
+  src: url("/fonts/PPNeueMontreal-Thin.otf") format("opentype");
 }
