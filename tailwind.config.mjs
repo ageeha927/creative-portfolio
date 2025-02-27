@@ -12,6 +12,7 @@ export default {
       },
       fontFamily: {
         MB: ['Montreal-Bold',],
+        ML: ['Montreal Thin',],
       },
       colors: {
         background: "var(--background)",
@@ -19,5 +20,7 @@ export default {
       },
     },
   },
-  plugins: []
+  plugins: [
+    require('daisyui'),
+  ],
 };
