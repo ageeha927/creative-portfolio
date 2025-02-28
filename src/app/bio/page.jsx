@@ -32,24 +32,34 @@ export default function Home() {
       </div>
       <div className="place-content-center text-center pt-10">
         <h1 className="pb-6">ME</h1>
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
         <p className="font-MB text-5xl uppercase ">Creative full-stack web developer with a passion for blending art, photography, and code. My adaptability allows me to craft unique digital experiences tailored to any style or preference. Every project reflects my artistic vision, technical expertise, and the harmony between creativity and functionality.</p>
       </div>
-      <div className="place-content-center text-center pt-10">
-        <h1 className="pb-6">SKILLS</h1>
-        <p className="font-MB text-5xl uppercase ">html / css / js / react / next.js / python / tailwind</p>
-=======
-        <p className="font-MB text-5xl uppercase">Creative full-stack web developer with a passion for blending art, photography, and code. My adaptability allows me to craft unique digital experiences tailored to any style or preference. Every project reflects my artistic vision, technical expertise, and the harmony between creativity and functionality.</p>
->>>>>>> Stashed changes
-=======
-        <p className="font-MB text-5xl uppercase">Creative full-stack web developer with a passion for blending art, photography, and code. My adaptability allows me to craft unique digital experiences tailored to any style or preference. Every project reflects my artistic vision, technical expertise, and the harmony between creativity and functionality.</p>
->>>>>>> Stashed changes
-=======
-        <p className="font-MB text-5xl uppercase">Creative full-stack web developer with a passion for blending art, photography, and code. My adaptability allows me to craft unique digital experiences tailored to any style or preference. Every project reflects my artistic vision, technical expertise, and the harmony between creativity and functionality.</p>
->>>>>>> Stashed changes
+      <div className="pt-6">
+        <Image src="/photos/hobbies.png" alt="hobbies" width={2000} height={60}/>
       </div>
+      <div className="place-content-center text-center pt-10">
+        <h1 className="pb-6">LANGUAGES/ FRAMEWORKS</h1>
+        <p className="font-MB text-5xl uppercase ">html / css / js / react / next.js / python / tailwind</p>
+        <div className="flex justify-around pt-6">
+          <div className="radial-progress bg-success-content text-base-100 border-success-content border-4 animate-spin-slow" style={{ "--value": 100 }}role="progressbar">100%</div>
+          <div className="radial-progress bg-success-content text-base-100 border-success-content border-4 animate-spin-slow" style={{ "--value": 100 }}role="progressbar">100%</div>
+          <div className="radial-progress bg-success-content text-base-100 border-success-content border-4 animate-spin-slow" style={{ "--value": 90 }}role="progressbar">90%</div>
+          <div className="radial-progress bg-success-content text-base-100 border-success-content border-4 animate-spin-slow" style={{ "--value": 80 }}role="progressbar">80%</div>
+          <div className="radial-progress bg-success-content text-base-100 border-success-content border-4 animate-spin-slow" style={{ "--value": 40 }}role="progressbar">40%</div>
+          <div className="radial-progress bg-success-content text-base-100 border-success-content border-4 animate-spin-slow" style={{ "--value": 90 }}role="progressbar">90%</div>
+          <div className="radial-progress bg-success-content text-base-100 border-success-content border-4 animate-spin-slow" style={{ "--value": 60 }}role="progressbar">60%</div>
+        </div>
+      </div>
+      <div className="place-content-center text-center pt-10">
+        <h1 className="pb-6">PROFESSIONAL SKILLS</h1>
+        <p className="font-MB text-5xl uppercase ">LEADERSHIP / CREATIVITY / PROBLEM SOLVING / COMMUNICATION</p>
+      </div>
+      <div className="flex justify-around pt-6">
+          <div className="radial-progress bg-success-content text-base-100 border-success-content border-4 animate-spin-slow" style={{ "--value": 90, "--size": "12rem", "--thickness": "2rem" }}role="progressbar">90%</div>
+          <div className="radial-progress bg-success-content text-base-100 border-success-content border-4 animate-spin-slow" style={{ "--value": 92, "--size": "12rem", "--thickness": "2rem" }}role="progressbar">95%</div>
+          <div className="radial-progress bg-success-content text-base-100 border-success-content border-4 animate-spin-slow" style={{ "--value": 80, "--size": "12rem", "--thickness": "2rem" }}role="progressbar">80%</div>
+          <div className="radial-progress bg-success-content text-base-100 border-success-content border-4 animate-spin-slow" style={{ "--value": 90, "--size": "12rem", "--thickness": "2rem" }}role="progressbar">90%</div>
+        </div>
     </>
   )
 }
