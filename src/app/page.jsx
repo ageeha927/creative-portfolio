@@ -14,7 +14,7 @@ export default function Home() {
             width={60}
             height={60}
           />
-            <li><Link href="/bio" className="text-5xl font-medium hover:text-gray-500 text-[3.75rem] focus:text-red-800 ">|BIO|</Link></li>
+            <li><Link href="/" className="text-5xl font-medium hover:text-gray-500 text-[3.75rem] focus:text-red-800 ">|BIO|</Link></li>
             <li><Link href="/projects" className="text-5xl font-medium hover:text-gray-500 text-[3.75rem] ">PROJECTS|</Link></li>
             <li><Link href="/contact" className="text-5xl font-medium hover:text-gray-500 text-[3.75rem] ">CONTACT|</Link></li>
           </ul>
@@ -24,8 +24,8 @@ export default function Home() {
             className="dark:invert flex justify-end"
             src="/photos/ME.png"
             alt="Creative Portfolio Logo"
-            width={350}
-            height={350}
+            width={400}
+            height={400}
         />
         </div>
           <h1 className= " leading-[4.75rem] text-[5rem] font-MB ">&nbsp; &nbsp;  HEY. I'M AUDREY GEEHAN - A 17 YEAR  &nbsp;  &nbsp;OLD CREATIVE FULL-STACK DEVLOPER </h1>

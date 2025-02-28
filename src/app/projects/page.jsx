@@ -14,7 +14,7 @@ return (
             width={60}
             height={60}
         />
-            <li><Link href="/bio" className="text-5xl font-medium hover:text-gray-500 text-[3.75rem] focus:text-red-800 ">|BIO|</Link></li>
+            <li><Link href="/" className="text-5xl font-medium hover:text-gray-500 text-[3.75rem] focus:text-red-800 ">|BIO|</Link></li>
             <li><Link href="/projects" className="text-5xl font-medium hover:text-gray-500 text-[3.75rem] ">PROJECTS|</Link></li>
             <li><Link href="/contact" className="text-5xl font-medium hover:text-gray-500 text-[3.75rem] ">CONTACT|</Link></li>
         </ul>
@@ -76,7 +76,7 @@ return (
     </div>
     </div>
 
-    <div className="flex pt-6 justify-around">
+    <div className="flex pt-6 justify-around pb-6">
     <div className="card bg-base-100 w-96 shadow-xl">
         <figure>
             <img
