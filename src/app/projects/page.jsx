@@ -60,18 +60,17 @@ return (
     <div className="card bg-base-100 w-96 shadow-xl">
         <figure>
             <img
-            src="https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.webp"
-            alt="Shoes" />
+            src="https://res.cloudinary.com/dwxlvrwu4/image/upload/v1740762122/Screenshot_68_l4rnqr.png"
+            alt="Responsive Gallery" />
         </figure>
         <div className="card-body">
             <h2 className="card-title">
-            Shoes!
-            <div className="badge badge-secondary">NEW</div>
+            Responsive Gallery
             </h2>
-            <p>If a dog chews shoes whose shoes does he choose?</p>
+            <p>Fully CSS & JS Responsive Gallery</p>
             <div className="card-actions justify-end">
-            <div className="badge badge-outline">Fashion</div>
-            <div className="badge badge-outline">Products</div>
+            <div className="badge badge-outline">CSS</div>
+            <div className="badge badge-outline">Component</div>
             </div>
         </div>
     </div>
@@ -81,18 +80,17 @@ return (
     <div className="card bg-base-100 w-96 shadow-xl">
         <figure>
             <img
-            src="https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.webp"
-            alt="Shoes" />
+            src="https://res.cloudinary.com/dwxlvrwu4/image/upload/c_pad,ar_4:3/v1740762701/Screenshot_70_dap84w.png"
+            alt="Pet Adoption" />
         </figure>
         <div className="card-body">
             <h2 className="card-title">
-            Shoes!
-            <div className="badge badge-secondary">NEW</div>
+            Pet Adoption Web App
             </h2>
             <p>If a dog chews shoes whose shoes does he choose?</p>
             <div className="card-actions justify-end">
-            <div className="badge badge-outline">Fashion</div>
-            <div className="badge badge-outline">Products</div>
+            <div className="badge badge-outline">MongoDB</div>
+            <div className="badge badge-outline">EJS</div>
             </div>
         </div>
     </div>
@@ -100,18 +98,17 @@ return (
     <div className="card bg-base-100 w-96 shadow-xl">
         <figure>
             <img
-            src="https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.webp"
-            alt="Shoes" />
+            src="https://res.cloudinary.com/dwxlvrwu4/image/upload/v1740762124/Screenshot_69_e5bdwy.png"
+            alt="Troop 747" />
         </figure>
         <div className="card-body">
             <h2 className="card-title">
-            Shoes!
-            <div className="badge badge-secondary">NEW</div>
+            Troop 747
             </h2>
-            <p>If a dog chews shoes whose shoes does he choose?</p>
+            <p>Intership Website Revamp for Troop 747</p>
             <div className="card-actions justify-end">
-            <div className="badge badge-outline">Fashion</div>
-            <div className="badge badge-outline">Products</div>
+            <div className="badge badge-outline">Experience</div>
+            <div className="badge badge-outline">React</div>
             </div>
         </div>
     </div>
@@ -119,18 +116,17 @@ return (
     <div className="card bg-base-100 w-96 shadow-xl">
         <figure>
             <img
-            src="https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.webp"
-            alt="Shoes" />
+            src="https://res.cloudinary.com/dwxlvrwu4/image/upload/v1740763474/Screenshot_71_kzlfc6.png"
+            alt="Portfolio" />
         </figure>
         <div className="card-body">
             <h2 className="card-title">
-            Shoes!
-            <div className="badge badge-secondary">NEW</div>
+            Old Portfolio
             </h2>
-            <p>If a dog chews shoes whose shoes does he choose?</p>
+            <p>A Showcase of my Ability in 2023-2024</p>
             <div className="card-actions justify-end">
-            <div className="badge badge-outline">Fashion</div>
-            <div className="badge badge-outline">Products</div>
+            <div className="badge badge-outline">Experience</div>
+            <div className="badge badge-outline">JS</div>
             </div>
         </div>
     </div>
