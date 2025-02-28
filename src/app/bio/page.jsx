@@ -32,7 +32,11 @@ export default function Home() {
       </div>
       <div className="place-content-center text-center pt-10">
         <h1 className="pb-6">ME</h1>
-        <p className="font-MB text-5xl ">Creative full-stack web developer with a passion for blending art, photography, and code. My adaptability allows me to craft unique digital experiences tailored to any style or preference. Every project reflects my artistic vision, technical expertise, and the harmony between creativity and functionality.</p>
+        <p className="font-MB text-5xl uppercase ">Creative full-stack web developer with a passion for blending art, photography, and code. My adaptability allows me to craft unique digital experiences tailored to any style or preference. Every project reflects my artistic vision, technical expertise, and the harmony between creativity and functionality.</p>
+      </div>
+      <div className="place-content-center text-center pt-10">
+        <h1 className="pb-6">SKILLS</h1>
+        <p className="font-MB text-5xl uppercase ">html / css / js / react / next.js / python / tailwind</p>
       </div>
     </>
   )
